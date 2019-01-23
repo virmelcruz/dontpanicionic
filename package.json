@@ -19,8 +19,6 @@
     "node": ">=4.0.0"
   },
   "devDependencies": {
-    "express": "^4.16.4",
-    "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-connect": "^1.0.2",
@@ -169,6 +167,7 @@
     "exit": "^0.1.2",
     "expand-brackets": "^2.1.4",
     "expand-tilde": "^2.0.2",
+    "express": "^4.16.4",
     "extend": "^3.0.2",
     "extend-shallow": "^2.0.1",
     "extglob": "^2.0.4",
@@ -207,6 +206,7 @@
     "global-prefix": "^1.0.2",
     "globule": "^1.2.1",
     "graceful-fs": "^4.1.15",
+    "grunt": "^1.0.3",
     "grunt-known-options": "^1.1.1",
     "grunt-legacy-log": "^2.0.0",
     "grunt-legacy-log-utils": "^2.0.1",
