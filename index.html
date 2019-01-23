@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<style>
+			.custom-header {
+				color: red !important;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<!-- Intro -->
+				<section>
+					<h1>
+						Dont <span style="color: red;"> Panic! </span>  <br/>
+						Its just <span style="color: red;"> IONIC! </span>
+					</h1>
+					<aside class="notes">
+						Colossians 2:33 -
+						Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.
+
+						The Lord is with you. Kaya mo yan :)
+					</aside>
+				</section>
+				<!-- Intro -->
+
+				<!-- About Me -->
+				<section>
+					<section data-markdown>
+							## Who am I?
+							<section>
+								What I'm Doing here? Who I work for?
+							</section>
+					</section>
+					<section>
+						<center>
+							<img
+								style="border-radius: 50%; width: 400px; height: 400px;"
+								src="./images/trip.gif"
+							>
+						</center>
+						<h3>
+							Angela Yamat
+						</h3>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+							Background:
+							- Working for _ years as Web dev <!-- .element: class="fragment" data-fragment-index="1" -->
+							- Sunday School Teacher <!-- .element: class="fragment" data-fragment-index="2" -->
+							- Please fillup this space <!-- .element: class="fragment" data-fragment-index="3" -->
+						</script>
+					</section>
+				</section>
+				<!-- About Me -->
+
+				<!-- Brief Background about Web Dev -->
+				<section>
+					<section data-markdown>
+						## Web Development
+						<section>
+							A short and brief web development history
+						</section>
+					</section>
+					<section>
+						<p class="fragment highlight-current-red">Javascript</p>
+						<p class="fragment highlight-current-red">HTML</p>
+						<p class="fragment highlight-current-red">CSS</p>
+					</section>
+				</section>
+				<!-- Brief Background about Web Dev -->
+
+				<!-- Problem -->
+				<section data-markdown>
+					<script type="text/template">
+						<!-- .slide: data-background="#9a2828" -->
+						# Problem
+					</script>
+				</section>
+				<section>
+					<section data-markdown>
+						<script type="text/template">
+							<!-- .slide: data-background="#9a2828" -->
+							### 1. Challenging to build for specific mobile platform
+								- Web
+								- Android
+								- IOS
+								- Windows
+						</script>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+							<!-- .slide: data-background="#9a2828" -->
+							### 2. Project cost
+						</script>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+							<!-- .slide: data-background="#9a2828" -->
+							### 3. Timeline of development
+						</script>
+					</section>
+					<section data-markdown>
+						<script type="text/template">
+							<!-- .slide: data-background="#9a2828" -->
+							### 4. Developers learning curve
+						</script>
+					</section>
+				</section>
+				<!-- Problem -->
+
+				<!-- Solution -->
+				<section data-markdown>
+					<script type="text/template">
+						<!-- .slide: data-background="#28589a" -->
+						# Solution
+					</script>
+				</section>
+				<section>
+						<section data-markdown>
+							<script type="text/template">
+								<!-- .slide: data-background="#28589a" -->
+								### Cross-platform mobile development frameworks
+									- Phonegap / Apache Cordova
+							</script>
+						</section>
+						<section data-markdown>
+							<script type="text/template">
+								<!-- .slide: data-background="#28589a" -->
+								### Mobile Development tools requirements
+
+								<section>
+									<p class="fragment"> IDE </p>
+									<p class="fragment"> SDKs </p>
+									<p class="fragment"> NPM </p>
+									<p class="fragment"> Android Studio </p>
+									<p class="fragment"> Xcode </p>
+									<p class="fragment"> GIT </p>
+								</section>
+							</script>
+						</section>
+					</section>
+					<!-- Solution -->
+
+					<!-- Demo! -->
+					<section>
+						<img src="./images/demo.jpg">
+					</section>
+					<!-- Demo! -->
+
+					<!-- Advance -->
+					<section>
+						<h2> Advance? </h2>
+							<section>
+								<p class="fragment"> GitHub url for the demo </p>
+								<p class="fragment"> https://ionicframework.com/ </p>
+								<p class="fragment">
+									Have some questions? <br/>
+									Email: anj.yamat@gmail.com
+								</p>
+							</section>
+					</section>
+					<!-- Advance -->
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+
+			Reveal.configure({
+				slideNumber: true
+			})
+		</script>
+	</body>
+</html>
