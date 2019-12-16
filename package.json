@@ -267,7 +267,7 @@
     "isobject": "^3.0.1",
     "isstream": "^0.1.2",
     "js-base64": "^2.1.9",
-    "js-yaml": "^3.5.5",
+    "js-yaml": "^3.13.1",
     "jsbn": "^0.1.1",
     "jshint": "^2.9.7",
     "json-parse-better-errors": "^1.0.2",
