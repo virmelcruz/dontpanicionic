@@ -314,7 +314,7 @@
     "nanomatch": "^1.2.13",
     "negotiator": "^0.6.1",
     "node-gyp": "^3.8.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "nopt": "^3.0.6",
     "normalize-package-data": "^2.4.0",
     "npmlog": "^4.1.2",
