@@ -226,7 +226,7 @@
     "hasha": "^2.2.0",
     "homedir-polyfill": "^1.0.1",
     "hooker": "^0.2.3",
-    "hosted-git-info": "^2.7.1",
+    "hosted-git-info": "^2.8.9",
     "htmlparser2": "^3.8.3",
     "http-errors": "^1.6.3",
     "http-parser-js": "^0.5.0",
