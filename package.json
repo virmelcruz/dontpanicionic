@@ -419,7 +419,7 @@
     "snapdragon-util": "^3.0.1",
     "socket.io-adapter": "^0.5.0",
     "socket.io-client": "^1.7.4",
-    "socket.io-parser": "^2.3.1",
+    "socket.io-parser": "^3.3.2",
     "source-map": "^0.4.4",
     "source-map-resolve": "^0.5.2",
     "source-map-url": "^0.4.0",
