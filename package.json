@@ -350,7 +350,7 @@
     "pascalcase": "^0.1.1",
     "path-exists": "^2.1.0",
     "path-is-absolute": "^1.0.1",
-    "path-parse": "^1.0.6",
+    "path-parse": "^1.0.7",
     "path-root": "^0.1.1",
     "path-root-regex": "^0.1.2",
     "path-to-regexp": "^0.1.7",
