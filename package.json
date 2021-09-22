@@ -47,7 +47,7 @@
     "after": "^0.8.2",
     "ajv": "^6.7.0",
     "amdefine": "^1.0.1",
-    "ansi-regex": "^1.1.1",
+    "ansi-regex": "^6.0.1",
     "ansi-styles": "^2.2.1",
     "aproba": "^1.2.0",
     "are-we-there-yet": "^1.1.5",
