@@ -1132,7 +1132,11 @@ get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
 
-getobject@^0.1.0, getobject@~0.1.0:
+getobject@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/getobject/-/getobject-1.0.0.tgz#27eeb6394716cfb6adcef275a33c2752df9ca49a"
+
+getobject@~0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/getobject/-/getobject-0.1.0.tgz#047a449789fa160d018f5486ed91320b6ec7885c"
 
