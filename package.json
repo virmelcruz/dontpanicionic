@@ -199,7 +199,7 @@
     "get-caller-file": "^1.0.3",
     "get-stdin": "^4.0.1",
     "get-value": "^2.0.6",
-    "getobject": "^0.1.0",
+    "getobject": "^1.0.0",
     "getpass": "^0.1.7",
     "glob": "^7.1.3",
     "global-modules": "^1.0.0",
