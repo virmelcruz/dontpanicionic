@@ -410,7 +410,7 @@
     "set-immediate-shim": "^1.0.1",
     "set-value": "^2.0.0",
     "setprototypeof": "^1.1.0",
-    "shelljs": "^0.3.0",
+    "shelljs": "^0.8.5",
     "signal-exit": "^3.0.2",
     "slash": "^1.0.0",
     "slide": "^1.1.6",
