@@ -45,7 +45,7 @@
     "abbrev": "^1.1.1",
     "accepts": "^1.3.5",
     "after": "^0.8.2",
-    "ajv": "^6.7.0",
+    "ajv": "^6.12.3",
     "amdefine": "^1.0.1",
     "ansi-regex": "^1.1.1",
     "ansi-styles": "^2.2.1",
