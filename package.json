@@ -134,7 +134,7 @@
     "debug": "^2.6.9",
     "debuglog": "^1.0.1",
     "decamelize": "^1.2.0",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "define-property": "^0.2.5",
     "delayed-stream": "^1.0.0",
     "delegates": "^1.0.0",
