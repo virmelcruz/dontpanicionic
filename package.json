@@ -371,7 +371,7 @@
     "pseudomap": "^1.0.2",
     "psl": "^1.1.31",
     "punycode": "^1.4.1",
-    "qs": "^6.5.2",
+    "qs": "^6.6.1",
     "range-parser": "^1.2.0",
     "raw-body": "^2.3.3",
     "read-installed": "^4.0.3",
